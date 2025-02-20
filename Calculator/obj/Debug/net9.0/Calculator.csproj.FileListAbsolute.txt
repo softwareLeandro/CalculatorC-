@@ -1,0 +1,14 @@
+/Users/leandroalexandre/Desktop/dotnet/Calculator/bin/Debug/net9.0/Calculator
+/Users/leandroalexandre/Desktop/dotnet/Calculator/bin/Debug/net9.0/Calculator.deps.json
+/Users/leandroalexandre/Desktop/dotnet/Calculator/bin/Debug/net9.0/Calculator.runtimeconfig.json
+/Users/leandroalexandre/Desktop/dotnet/Calculator/bin/Debug/net9.0/Calculator.dll
+/Users/leandroalexandre/Desktop/dotnet/Calculator/bin/Debug/net9.0/Calculator.pdb
+/Users/leandroalexandre/Desktop/dotnet/Calculator/obj/Debug/net9.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leandroalexandre/Desktop/dotnet/Calculator/obj/Debug/net9.0/Calculator.AssemblyInfoInputs.cache
+/Users/leandroalexandre/Desktop/dotnet/Calculator/obj/Debug/net9.0/Calculator.AssemblyInfo.cs
+/Users/leandroalexandre/Desktop/dotnet/Calculator/obj/Debug/net9.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/leandroalexandre/Desktop/dotnet/Calculator/obj/Debug/net9.0/Calculator.dll
+/Users/leandroalexandre/Desktop/dotnet/Calculator/obj/Debug/net9.0/refint/Calculator.dll
+/Users/leandroalexandre/Desktop/dotnet/Calculator/obj/Debug/net9.0/Calculator.pdb
+/Users/leandroalexandre/Desktop/dotnet/Calculator/obj/Debug/net9.0/Calculator.genruntimeconfig.cache
+/Users/leandroalexandre/Desktop/dotnet/Calculator/obj/Debug/net9.0/ref/Calculator.dll
